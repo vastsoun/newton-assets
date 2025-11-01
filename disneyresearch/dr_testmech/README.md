@@ -6,6 +6,12 @@
 DR Test Mechanism (a.k.a. DR TestMech) is a teeny-tiny toy mechanism that serves as a demonstration of all joints supported by Kamino.
 
 
+## Changelog
+
+### [01/11/2025]
+- Initial release.
+
+
 ## Assets
 
 The following assets are provided for this model:

@@ -6,6 +6,13 @@
 DR Legs (a.k.a. Dr. Legs) is a bipedal walking robot with a serial-parallel hybrid leg mechanism that exhibits both passive
 and actuated joints with multiple closed kinematic loops, originally presented by Gim et al. in [**[1]**](#relevant-literatute).
 
+
+## Changelog
+
+### [01/11/2025]
+- Initial release.
+
+
 ## Assets
 
 The following assets are provided for this model:
@@ -16,7 +23,6 @@ The following assets are provided for this model:
 | `dr_legs_with_boxes.usda` | USD (text) | A simplified version of **DR Legs** with box primitive geometry for the pelvis and feet. |
 | `dr_legs_with_meshes_and_boxes.usda` | USD (text) | A hybrid version of **DR Legs** with full mesh geometry as well as box primitive geometry for the pelvis and feet. |
 | `dr_legs_animation_100fps.npy` | `numpy` (binary) | Array containing a walking animation parameterized in joint-space and time-discretized at `dt=0.01s`, i.e. `100Hz` |
-
 
 
 ## Relevant Literature
