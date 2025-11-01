@@ -27,7 +27,7 @@ The following assets are provided for this model:
 
 ## Relevant Literature
 
-**[1]** The original publication describing the design of **DR Legs** should be cited ([link](https://ieeexplore.ieee.org/document/8594182)):
+**[1]** The original publication describing the design of **DR Legs** should be cited ([Gim et al., 2018 IROS](https://ieeexplore.ieee.org/document/8594182)):
 ```bibtex
 @article{Gim:2018,
     author={Gim, Kevin G. and Kim, Joohyung and Yamane, Katsu},
@@ -40,7 +40,7 @@ The following assets are provided for this model:
 
 This model also appears in the following works:
 
-**[2]** Our work on inverse kinematics and motion retargeting for general mechanisms featuring closed kinematic loops ([link](https://ieeexplore.ieee.org/document/9343702)):
+**[2]** Our work on inverse kinematics and motion retargeting for general mechanisms featuring closed kinematic loops ([Schumacher et al., 2021 IEEE-RA-L](https://ieeexplore.ieee.org/document/9343702)):
 ```bibtex
 @article{Schumacher:2021,
     author={Schumacher, Christian and Knoop, Espen and Bächer, Moritz},
@@ -51,7 +51,7 @@ This model also appears in the following works:
 }
 ```
 
-**[3]** Our work on neural augmentation of robot simulations ([link](https://ieeexplore.ieee.org/document/10113169)):
+**[3]** Our work on neural augmentation of robot simulations ([Serifi et al., 2023 IEEE-RA-L](https://ieeexplore.ieee.org/document/10113169)):
 ```bibtex
 @article{Serifi:2023,
     author={Serifi, Agon and Knoop, Espen and Schumacher, Christian and Kumar, Naveen and Gross, Markus and Bächer, Moritz},
@@ -62,7 +62,7 @@ This model also appears in the following works:
 }
 ```
 
-**[4]** Our technical report on constrained rigid-body dynamics solvers ([link](https://arxiv.org/abs/2504.19771)):
+**[4]** Our technical report on constrained rigid-body dynamics solvers ([Tsounis et al., 2025 arXiv](https://arxiv.org/abs/2504.19771)):
 ```bibtex
 @article{Tsounis:2025,
     title={On Solving the Dynamics of Constrained Rigid Multi-Body Systems with Kinematic Loops},

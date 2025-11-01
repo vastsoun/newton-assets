@@ -25,7 +25,7 @@ The following assets are provided for this model:
 
 This model appears in the following works:
 
-**[1]** Inverse kinematics and motion retargeting for general mechanisms featuring closed kinematic loops ([link](https://ieeexplore.ieee.org/document/9343702)):
+**[1]** Inverse kinematics and motion retargeting for general mechanisms featuring closed kinematic loops ([Schumacher et al., 2021 IEEE-RA-L](https://ieeexplore.ieee.org/document/9343702)):
 ```bibtex
 @article{Schumacher:2021,
     author={Schumacher, Christian and Knoop, Espen and Bächer, Moritz},
