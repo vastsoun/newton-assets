@@ -1,6 +1,6 @@
 # DR Test Mechanism
 
-<img src="./dr_testmech.png" alt="DR Legs" width="300">
+<img src="./dr_testmech.png" alt="DR Test Mechanism" width="300">
 
 ## Description
 DR Test Mechanism (a.k.a. DR TestMech) is a teeny-tiny toy mechanism that serves as a demonstration of all joints supported by Kamino.
@@ -25,7 +25,7 @@ The following assets are provided for this model:
 
 This model appears in the following works:
 
-**[1]** Inverse kinematics and motion retargetting for general mechanisms featuring closed kinematic loops ([link](https://ieeexplore.ieee.org/document/9343702)):
+**[1]** Inverse kinematics and motion retargeting for general mechanisms featuring closed kinematic loops ([link](https://ieeexplore.ieee.org/document/9343702)):
 ```bibtex
 @article{Schumacher:2021,
     author={Schumacher, Christian and Knoop, Espen and Bächer, Moritz},

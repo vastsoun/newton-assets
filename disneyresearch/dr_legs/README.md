@@ -4,7 +4,7 @@
 
 ## Description
 DR Legs (a.k.a. Dr. Legs) is a bipedal walking robot with a serial-parallel hybrid leg mechanism that exhibits both passive
-and actuated joints with multiple closed kinematic loops, originally presented by Gim et al. in [**[1]**](#relevant-literatute).
+and actuated joints with multiple closed kinematic loops, originally presented by Gim et al. in [**[1]**](#relevant-literature).
 
 
 ## Changelog
@@ -40,7 +40,7 @@ The following assets are provided for this model:
 
 This model also appears in the following works:
 
-**[2]** Our work on inverse kinematics and motion retargetting for general mechanisms featuring closed kinematic loops ([link](https://ieeexplore.ieee.org/document/9343702)):
+**[2]** Our work on inverse kinematics and motion retargeting for general mechanisms featuring closed kinematic loops ([link](https://ieeexplore.ieee.org/document/9343702)):
 ```bibtex
 @article{Schumacher:2021,
     author={Schumacher, Christian and Knoop, Espen and Bächer, Moritz},
@@ -51,7 +51,7 @@ This model also appears in the following works:
 }
 ```
 
-**[3]** Our work on neural augmentation of robot simlations ([link](https://ieeexplore.ieee.org/document/10113169)):
+**[3]** Our work on neural augmentation of robot simulations ([link](https://ieeexplore.ieee.org/document/10113169)):
 ```bibtex
 @article{Serifi:2023,
     author={Serifi, Agon and Knoop, Espen and Schumacher, Christian and Kumar, Naveen and Gross, Markus and Bächer, Moritz},
