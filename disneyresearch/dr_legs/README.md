@@ -19,6 +19,7 @@ The following assets are provided for this model:
 
 | filename | type | description |
 |---|---|---|
+| `Geometry/surfaces.usd` | USD (binary) | The set of rigid body surface geometry as a instanceable set of `UsdGeom` meshes. |
 | `dr_legs.usda` | USD (text) | The default model of **DR Legs** as a `UsdPhysics` scene with full high-resolution mesh geometry. |
 | `dr_legs_with_boxes.usda` | USD (text) | A simplified version of **DR Legs** with box primitive geometry for the pelvis and feet. |
 | `dr_legs_with_meshes_and_boxes.usda` | USD (text) | A hybrid version of **DR Legs** with full mesh geometry as well as box primitive geometry for the pelvis and feet. |

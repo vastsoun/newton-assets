@@ -18,6 +18,7 @@ The following assets are provided for this model:
 
 | filename | type | description |
 |---|---|---|
+| `Geometry/surfaces.usd` | USD (binary) | The set of rigid body surface geometry as a instanceable set of `UsdGeom` meshes. |
 | `dr_testmech.usda` | USD (text) | The model of **DR Test Mechanism** as a `UsdPhysics` scene with full high-fidelity mesh geometry. |
 
 
