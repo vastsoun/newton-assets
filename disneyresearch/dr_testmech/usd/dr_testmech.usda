@@ -534,7 +534,11 @@ def Xform "DR_TestMech"
             quatf physics:localRot1 = (-0.54569376, 0.44968694, 0.54569376, 0.44968694)
         }
 
-        def PhysicsPrismaticJoint "base_cart"
+        def PhysicsPrismaticJoint "base_cart" (
+            customData = {
+                string uuid = "19890f00-f152-42e9-8061-32ac1ed18eee"
+            }
+        )
         {
             uniform token physics:axis = "X"
             rel physics:body0 = </DR_TestMech/RigidBodies/base>
